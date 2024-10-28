@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    font-weight: 600;
+    /* Adjust based on your preference */
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+    /* Ensure the button also uses the new font */
+}
